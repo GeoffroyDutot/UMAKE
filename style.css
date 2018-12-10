@@ -17,7 +17,7 @@ body {
     background: #ffffff;
     padding: 5px;
     width: 100%;
-    margin-top: 50px; 
+    margin-top: 50px;
 }
 #menu ul {
     margin:0;
@@ -54,9 +54,9 @@ body {
         position:absolute;
         }
 /* BAS DE LA PAGE */
-#bas_de_page { 
+#bas_de_page {
     background-color: #aaaaaa;
-    margin-top: 100%; 
+    margin-top: 100%;
     width: 100%;
 }
 #reseau_sociaux {
