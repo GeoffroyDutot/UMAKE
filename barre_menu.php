@@ -1,9 +1,10 @@
 <!--header-------------->
 <div id="header">
-
+<a href="espacemembre.php"> <img src="images\espacemembre.png" alt="Mon Espace" height="30px" width="auto" style="margin-left:90%"></a>
 </div>
 <!--menu-------------->
 <div id="menu">
+
    <ul>
 
      <li><a href="index.php">ACCUEIL</a></li>
@@ -27,7 +28,6 @@
           <li><a href="#">Listes des cours</a></li>
           <li><a href="#">Derniers cours</a></li>
           <li><a href="#">Cours populaire</a></li>
-      </li>
         </ul>
-          <li><a href="espacemembre.php"> <img src="images\espacemembre.png" alt="Mon Espace" height="30px" width="auto" style="margin-left:90%"></a></li>
+      </li>
         </ul>
