@@ -1,8 +1,5 @@
-body {
-    padding: 0px;
-    margin: 0px;
-    background-color: #eeeeee;
-}
+/* Haut de page */
+
 #header {
     background-color: #1c1c1c;
     background-attachment: fixed;
@@ -13,68 +10,59 @@ body {
 }
 
 .logo_user {
-    float:right;
-    margin-top: 2px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 15px;
 }
 
 /* MENU DEROULANT */
-#menu {
+
+#navbar {
     position: fixed;
     background: #ffffff;
     padding: 5px;
     width: 100%;
     margin-top: 50px;
 }
-#menu ul {
+
+#navbar ul {
     margin:0;
     padding:5px;
     list-style-type:none;
     text-align:center;
     }
-   #menu li {
+
+   #navbar li {
     float:left;
     margin:auto;
     padding:5px;
     background-color:#ffffff;
     }
-   #menu li a {
+
+   #navbar li a {
     display:block;
     width:100px;
     color:#000000;
     text-decoration:none;
     padding:0px;
     }
-   #menu li a:hover {
+
+   #navbar li a:hover {
     color:#424242;
     }
-    #menu ul li ul {
+
+    #navbar ul li ul {
         display:none;
         }
-    #menu ul li:hover ul {
+
+    #navbar ul li:hover ul {
         display:block;
         }
-    #menu li:hover ul li {
+
+    #navbar li:hover ul li {
         float:none;
         }
-    #menu li ul {
+
+    #navbar li ul {
         position:absolute;
         }
-/* BAS DE LA PAGE */
-#bas_de_page {
-    background-color: #aaaaaa;
-    margin-top: 100%;
-    width: 100%;
-}
-#reseau_sociaux {
-    background-color: #7c7c7c;
-}
-
-.logo_facebook_bas{
-    margin-left: 1215px;
-}
-
-.logo_twitter_bas {
-  margin-top: 10px;
-    margin-right: 235px;
-    float: right;
-}

@@ -1,0 +1,59 @@
+
+/* BAS DE LA PAGE PRINCIPAL*/
+
+#footer {
+    background-color: #aaaaaa;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    position: absolute;
+    width: 100%;
+}
+
+
+#footer ul {
+    margin:0;
+    padding:15px;
+    list-style-type:none;
+    text-align:center;
+    }
+
+    #footer li {
+     float:left;
+     margin-top: 25px;
+     margin-left:150px;
+     margin-bottom: 25px;
+     padding:5px;
+     }
+
+     #footer li a {
+      display:block;
+      width: 100%;
+      color:#ffffff;
+      text-decoration:none;
+      padding:5px;
+      }
+
+
+/* BAS DE LA PAGE SECONDAIRE*/
+
+#reseau_sociaux {
+    background-color: #7c7c7c;
+    background-attachment: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    height: 45px;
+    width: 100%;
+}
+
+.logo_facebook_bas{
+    margin-left: 1215px;
+}
+
+.logo_twitter_bas {
+  margin-top: 10px;
+    margin-right: 235px;
+    float: right;
+}
