@@ -13,9 +13,8 @@ body {
 }
 
 .logo_user {
-    margin-top: 10px;
-    margin-right: 100px;
-    float: right;
+    float:right;
+    margin-top: 2px;
 }
 
 /* MENU DEROULANT */
