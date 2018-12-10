@@ -11,13 +11,6 @@ body {
     height: 50px;
     width: 100%;
 }
-
-.logo_user {
-    margin-top: 10px;
-    margin-right: 100px;
-    float: right;
-}
-
 /* MENU DEROULANT */
 #menu {
     position: fixed;
