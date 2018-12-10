@@ -1,7 +1,7 @@
 <!--header-------------->
   <div id="header">
 
-      <a href="espacemembre.php"> <img class="logo_user" src="images\espacemembre.png" alt="Mon Espace"  height="30px" width="auto"></a>
+      <a href="espacemembre.php"> <img class="logo_user" src="images\espacemembre.png" alt="Mon Espace"  height="30px"></a>
 
   </div>
 <!--menu-------------->

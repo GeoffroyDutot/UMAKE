@@ -3,7 +3,8 @@
 
 #footer {
     background-color: #aaaaaa;
-    bottom: 20px;
+    background-attachment: fixed;
+    bottom: 45px;
     left: 0;
     right: 0;
     position: absolute;
@@ -14,6 +15,7 @@
 #footer ul {
     margin:0;
     padding:15px;
+
     list-style-type:none;
     text-align:center;
     }
@@ -40,16 +42,18 @@
 #reseau_sociaux {
     background-color: #7c7c7c;
     background-attachment: fixed;
+    position: absolute;
+    padding-bottom: 8px;
     bottom: 0;
     left: 0;
     right: 0;
-    position: fixed;
     height: 45px;
     width: 100%;
 }
 
 .logo_facebook_bas{
     margin-left: 1215px;
+    float:right;
 }
 
 .logo_twitter_bas {

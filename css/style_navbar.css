@@ -5,7 +5,8 @@
     background-attachment: fixed;
     position: fixed;
     color: white;
-    height: 50px;
+    top:0;
+    height: 36px;
     width: 100%;
 }
 
@@ -18,11 +19,12 @@
 /* MENU DEROULANT */
 
 #navbar {
+    background-color: #ffffff;
+    background-attachment: fixed;
     position: fixed;
-    background: #ffffff;
-    padding: 5px;
+    top:35px;
+    height: 97px;
     width: 100%;
-    margin-top: 50px;
 }
 
 #navbar ul {
