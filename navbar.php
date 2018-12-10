@@ -18,16 +18,18 @@
          <li><a href="#">Langages logiciel</a></li>
          <li><a href="#">Langages mobile</a></li>
        </ul>
+     </li>
 
-      <li><a href="cours\digi\presentation_digi.php">DIGI ▼</a>
+    <li><a href="cours\digi\presentation_digi.php">DIGI ▼</a>
 
         <ul>
           <li><a href="#">Listes des cours </a></li>
           <li><a href="#">Derniers cours</a></li>
           <li><a href="#">Cours populaire</a></li>
         </ul>
+    </li>
 
-      <li><a href="cours\ops\presentation_ops.php">OPS ▼</a>
+    <li><a href="cours\ops\presentation_ops.php">OPS ▼</a>
 
         <ul>
           <li><a href="#">Listes des cours</a></li>
@@ -35,6 +37,6 @@
           <li><a href="#">Cours populaire</a></li>
         </ul>
 
-      </li>
+    </li>
     </ul>
 </div>
