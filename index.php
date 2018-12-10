@@ -4,9 +4,8 @@
     <meta charset="utf-8">
     <title>Blog IMIE</title>
     <link rel="stylesheet" href="style.css">
-    
 
-    <script src="script.js"></script>
+
   </head>
 
   <body>
