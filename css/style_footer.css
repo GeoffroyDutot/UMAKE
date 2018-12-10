@@ -15,7 +15,6 @@
 #footer ul {
     margin:0;
     padding:15px;
-
     list-style-type:none;
     text-align:center;
     }
@@ -43,7 +42,6 @@
     background-color: #7c7c7c;
     background-attachment: fixed;
     position: absolute;
-    padding-bottom: 8px;
     bottom: 0;
     left: 0;
     right: 0;
@@ -52,12 +50,9 @@
 }
 
 .logo_facebook_bas{
-    margin-left: 1215px;
-    float:right;
+
 }
 
 .logo_twitter_bas {
-  margin-top: 10px;
-    margin-right: 235px;
-    float: right;
+
 }

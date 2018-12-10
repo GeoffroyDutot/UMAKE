@@ -8,6 +8,6 @@
   </div>
 
   <div id="reseau_sociaux">
-      <a href="https://www.facebook.com/IMIE.IT/"><img src="Images/logo_facebook_blanc.png" alt="logo_facebook_bas" width="40"/>
-      <a href="https://twitter.com/ecoleimie"><img src="Images/logo_twitter_blanc.png" alt="logo_twitter_bas" width="25"/>
+      <a href="https://www.facebook.com/IMIE.IT"><img src="images/logo_facebook_blanc.png" alt="logo_facebook_bas" width="40"/></a>
+      <a href="https://twitter.com/ecoleimie"><img src="images/logo_twitter_blanc.png" alt="logo_twitter_bas" width="25"/></a>
   </div>
