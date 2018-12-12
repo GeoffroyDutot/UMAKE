@@ -7,7 +7,9 @@
 <!--menu-------------->
 <div id="navbar">
 
-   <ul>
+  <a href="index.php"> <img class="" src="images\ecole_de_la_filiere_numerique.png" alt="Mon Espace"  height="60px"></a>
+
+    <ul>
 
      <li><a href="index.php">ACCUEIL</a>
 
