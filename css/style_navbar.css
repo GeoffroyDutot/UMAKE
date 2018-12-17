@@ -18,12 +18,17 @@
 
 /* MENU DEROULANT */
 
+.logo_index {
+margin-top: 13px;
+margin-left: 250px;
+}
+
 #navbar {
     background-color: #ffffff;
     background-attachment: fixed;
     position: fixed;
     top:35px;
-    height: 97px;
+    height: 85px;
     width: 100%;
 }
 
@@ -31,7 +36,7 @@
   float: right;
   list-style-type: none;
   margin-right: 250px;
-  margin-top: 60px;
+  margin-top: 50px;
   padding: 0px 0px 0px;
   text-align: center;
     }
