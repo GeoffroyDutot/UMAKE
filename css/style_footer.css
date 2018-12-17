@@ -40,7 +40,6 @@
 
 #reseau_sociaux {
     background-color: #7c7c7c;
-    background-attachment: fixed;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -50,9 +49,13 @@
 }
 
 .logo_facebook_bas{
-
+  float: right;
+  margin-top: 1px;
+  margin-right: 150px;
 }
 
 .logo_twitter_bas {
-
+  float: right;
+  margin-top: 10px;
+  margin-right: 0px;
 }
