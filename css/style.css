@@ -5,10 +5,10 @@ body {
     position: relative;
     min-height: 658px;
     padding-bottom:150px;
-    padding-top:100px;
+    padding-top:100px; 
 }
 
-#block_index {
+#block_article {
   margin-top: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -18,4 +18,17 @@ body {
   width: 60%;
   background-color: white;
   min-height: 580px;
+}
+
+#trier_articles {
+  position: fixed;
+  left: 15px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 0;
+  width: 15%;
+  background-color: white;
+  min-height: 250px;
 }
