@@ -17,7 +17,7 @@
 <?php include("navbar.php"); ?>
 <!--corps de la page------->
   <center><p><h1>L'actualité de la section OPS ! </h1></center> </p>
-  <?php include("trier_articles.php"); ?>
+  <?php include("trier_articles_ops.php"); ?>
   <?php include("block_articles.php"); ?>
 <!--pied de page--------->
 
