@@ -26,9 +26,9 @@
 
       <?php include("navbar.php"); ?>
 
-      <?php include("block_articles.php"); ?>
+      <?php include("elements/block_articles.php"); ?>
 
-      <?php include("to-top.php"); ?>
+      <?php include("elements/to-top.php"); ?>
 
       <?php include("footer.php"); ?>
 

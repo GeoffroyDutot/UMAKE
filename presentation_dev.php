@@ -19,13 +19,11 @@
 <?php include("navbar.php"); ?>
 <!--corps de la page------->
    <center><p><h1>L'actualité de la section DEV ! </h1></center> </p>
-<?php include("trier_articles_dev.php"); ?>
-<?php include("block_articles.php"); ?>
-<?php include("to-top.php"); ?>
-
+   <?php include("elements/trier_articles_dev.php"); ?>
+   <?php include("elements/block_articles.php"); ?>
+   <?php include("elements/to-top.php"); ?>
 <!--pied de page--------->
-
-<?php include("footer.php"); ?>
+  <?php include("footer.php"); ?>
 
 </body>
 
