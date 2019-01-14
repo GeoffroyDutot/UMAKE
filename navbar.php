@@ -13,7 +13,7 @@
 
      <li><a href="index.php">ACCUEIL</a>
 
-     <li><a href="cours\dev\presentation_dev.php">DEV ▼</a>
+     <li><a href="presentation_dev.php">DEV ▼</a>
 
        <ul>
          <li><a href="#">Langages web</a></li>
@@ -22,7 +22,7 @@
        </ul>
      </li>
 
-    <li><a href="cours\digi\presentation_digi.php">DIGI ▼</a>
+    <li><a href="presentation_digital.php">DIGI ▼</a>
 
         <ul>
           <li><a href="#">Listes des cours </a></li>
@@ -31,7 +31,7 @@
         </ul>
     </li>
 
-    <li><a href="cours\ops\presentation_ops.php">OPS ▼</a>
+    <li><a href="presentation_ops.php">OPS ▼</a>
 
         <ul>
           <li><a href="#">Listes des cours</a></li>
