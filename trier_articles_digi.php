@@ -2,7 +2,7 @@
   <p>
       <strong>
     Suite Adobe office:
-      </strong>
+  </strong> <br />
  <label>Photoshop<input type="checkbox" name="Photoshop" /></label>
  <label>InDesign<input type="checkbox" name="inDesign" /></label>
  <label>Acrobat<input type="checkbox" name="Acrobat" /></label>
@@ -11,13 +11,13 @@
    <p>
      <strong>
      Référencement:
-     </strong>
+   </strong> <br />
     <label>SEO<input type="checkbox" name="SEO" /></label>
     <label>Social Media<input type="checkbox" name="Social Media" /></label>
     <label>Naturel<input type="checkbox" name="Naturel" /></label>
    </p>
    <p>
-     <strong>Utilisateur: </strong>
+     <strong>Utilisateur: </strong> <br />
       <label>UX<input type="checkbox" name="UX" /></label>
        <label>UI<input type="checkbox" name="UI" /></label>
    </p>

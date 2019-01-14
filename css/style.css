@@ -23,11 +23,11 @@ body {
 #trier_articles {
   position: fixed;
   left: 15px;
-  padding-top: 100px;
+  padding-top: 1px;
   padding-bottom: 100px;
   padding-left: 5px;
   padding-right: 5px;
-  margin-left: 0;
+  margin-left: 2px;
   width: 15%;
   background-color: white;
   min-height: 250px;
