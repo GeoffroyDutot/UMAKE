@@ -16,7 +16,7 @@
 
 <?php include("navbar.php"); ?>
 <!--corps de la page------->
-  <center><p><h1>Bienvenue sur la page Section DIGI ! </h1></center> </p>
+  <center><p><h1>L'actualité de la section DIGI ! </h1></center> </p>
   <?php include("block_articles.php"); ?>
 <!--pied de page--------->
 

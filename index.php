@@ -18,6 +18,8 @@
 
     <body>
 
+      <center><p><h1>L'actualité de nos campus ... ! </h1></center> </p>
+
       <?php include("navbar.php"); ?>
 
       <?php include("block_articles.php"); ?>
