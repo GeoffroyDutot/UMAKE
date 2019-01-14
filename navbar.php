@@ -13,16 +13,16 @@
 
      <li><a href="index.php">ACCUEIL</a>
 
-     <li><a href="presentation_dev.php">DEV ▼</a>
+     <li><a href="presentation_dev.php">DEV </a>
 
      </li>
 
-    <li><a href="presentation_digital.php">DIGI ▼</a>
+    <li><a href="presentation_digital.php">DIGI </a>
 
      
     </li>
 
-    <li><a href="presentation_ops.php">OPS ▼</a>
+    <li><a href="presentation_ops.php">OPS </a>
 
      
     </li>
