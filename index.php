@@ -20,12 +20,7 @@
 
       <?php include("navbar.php"); ?>
 
-      <div id="block_index">
-        <p>
-
-
-        </p>
-      </div>
+      <?php include("block_articles.php"); ?>
 
       <?php include("footer.php"); ?>
 

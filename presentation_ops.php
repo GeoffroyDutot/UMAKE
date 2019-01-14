@@ -15,9 +15,8 @@
 
 
 <?php include("navbar.php"); ?>
-<!--corps de la page------->
-  <div id="corps"> <center><p><h1>Bienvenue sur la page Section OPS ! </h1></center> </p></div>
-<!--pied de page--------->
+
+<?php include("block_articles.php"); ?>
 
 <?php include("footer.php"); ?>
 
