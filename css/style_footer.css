@@ -4,7 +4,7 @@
 #footer {
     background-color: #aaaaaa;
     background-attachment: fixed;
-    bottom: 45px;
+    bottom: 25px;
     left: 0;
     right: 0;
     position: absolute;
@@ -22,7 +22,7 @@
     #footer li {
      float:left;
      margin-top: 25px;
-     margin-left:150px;
+     margin-left:200px;
      margin-bottom: 25px;
      padding:5px;
      }
@@ -32,7 +32,7 @@
       width: 100%;
       color:#ffffff;
       text-decoration:none;
-      padding:5px;
+      padding-bottom: 13px;
       }
 
 
